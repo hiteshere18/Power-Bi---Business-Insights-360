@@ -1,7 +1,7 @@
 # Business Insights 360 Project
 
 ## Start Live Dashboard
-Kickstart your journey by accessing the live dashboard here: https://app.powerbi.com/view?r=eyJrIjoiMzExNzJhZGMtN2M5OS00ZWZhLTgxYmItZDgyYzA1ZGEzNzk5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+Kickstart your journey by accessing the live dashboard here: [Power BI Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzExNzJhZGMtN2M5OS00ZWZhLTgxYmItZDgyYzA1ZGEzNzk5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ## Overview
 Welcome to **Business Insights 360** – Your all-in-one solution for unlocking actionable insights across Finance, Sales, Marketing, and Supply Chain domains. Built on Power BI Desktop, this interactive tool empowers you to explore real-time data, uncover trends, and drive informed decision-making.
